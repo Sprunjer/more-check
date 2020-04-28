@@ -1,2 +1,2 @@
 # more-check
-stellar go based coin flipping game
+Stellar go based coin flipping game
